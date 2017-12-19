@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513102182 source:f:\c projects\kirana dukan bill print system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HIGHLIGHT.h"
+
